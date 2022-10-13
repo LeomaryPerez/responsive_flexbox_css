@@ -1,0 +1,16 @@
+body {
+    background-attachment:fixed;
+}
+
+.contenedor__mensaje, .form{
+    width: 95%;
+    margin: 0 auto;
+}
+.contenedor__parrafo {
+    display: none;
+}
+
+
+.contenedor{
+    flex-direction: column;
+}
